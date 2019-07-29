@@ -3,15 +3,14 @@ Template is a Python application that I developed which allows you to generate a
 
 ## Visuals 
 
-Template App icon:                                ![](Screenshots/AppIcon.png)
+**Template** App icon: ![](Screenshots/AppIcon.png)
 
 The application window:
 
 ![](Screenshots/AppUI.png)
-
 The application comes with a template letter. Here we generate the letter by the info for the variables. 
--Employer: Apple
--Position: Manager
+  - Employer: Apple
+  - osition: Manager
 
 ![](Gifs/GenerateLetter.gif)
 
