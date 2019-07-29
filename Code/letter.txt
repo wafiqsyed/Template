@@ -1,0 +1,6 @@
+Hello <<Employer>>!
+
+My name is John, and I'm applying for your <<Position>> position.
+
+Kind regards,
+John Cena
