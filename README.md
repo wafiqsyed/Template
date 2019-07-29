@@ -8,9 +8,10 @@ Template is a Python application that I developed which allows you to generate a
 The application window:
 
 ![](Screenshots/AppUI.png)
+
 The application comes with a template letter. Here we generate the letter by the info for the variables. 
   - Employer: Apple
-  - osition: Manager
+  - Position: Manager
 
 ![](Gifs/GenerateLetter.gif)
 
