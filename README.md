@@ -3,4 +3,7 @@ A python application I developed which allows you to generate a template letter 
 
 ![](Screenshots/AppIcon.png)
 ![](Screenshots/AppUI.png)
-![](Screenshots/AppVid.mov)
+
+![](Gifs/AddVars.gif)
+![](Gifs/GenerateLetter.gif)
+![](Gifs/Copy.gif)
