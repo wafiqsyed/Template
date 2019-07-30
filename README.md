@@ -1,9 +1,7 @@
 # Template
-Template is a Python application that I developed which allows you to generate a template letter and change just the variables you want to. I originally made it as a cover letter template generator so you could change just the company name and position. However,it can be used for anything.
+Template is a Python application that I developed which allows you to generate a template letter and change just the variables you want to. I originally made it as a cover letter template generator so you could change just the company name and position. However, it can be used for anything.
 
 ## Visuals 
-
-**Template** App icon: ![](Screenshots/AppIcon.png)
 
 The application window:
 
