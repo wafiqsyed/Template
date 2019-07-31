@@ -24,4 +24,4 @@ The application automatically copies the generated letter to your clipboard, so 
 ![](Gifs/Copy.gif)
 
 Download Template:
-MAC: (Template.zip)
+MAC: (/Template.zip)
