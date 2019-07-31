@@ -1,7 +1,7 @@
 # Template
 Template is a Python application that I developed which allows you to generate a template letter and change just the variables you want to. I originally made it as a cover letter template generator so you could change just the company name and position. However, it can be used for anything.
 
-![Download](https://img.shields.io/badge/Download-Template%20for%20MAC-brightgreen?style=for-the-badge&logo=data:write-letter/png)
+![Download](https://img.shields.io/badge/Download-Template%20for%20MAC-brightgreen?style=for-the-badge&logo=data:write-letter.png)
 
 ## Visuals 
 
