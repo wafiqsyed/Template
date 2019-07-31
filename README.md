@@ -24,7 +24,9 @@ The application automatically copies the generated letter to your clipboard, so 
 ![](Gifs/Copy.gif)
 
 Download Template:
+
 MAC: https://github.com/wafiqsyed/Template/raw/master/Template.zip
+
 Windows: (Unavailable right now, sorry!)
 
 Acknowledgements:
